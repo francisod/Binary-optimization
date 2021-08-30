@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul  3 10:48:40 2021
-
-@author: franciso
-"""
-
 import pulp
 import numpy as np
 
